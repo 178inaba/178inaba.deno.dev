@@ -19,7 +19,7 @@ app.use(async (ctx, next) => {
 
 // Hello World!
 app.use((ctx) => {
-  ctx.response.body = "Hello World!";
+  ctx.response.body = "Hi! I'm 178inaba!";
 });
 
 addEventListener("fetch", app.fetchEventHandler());
