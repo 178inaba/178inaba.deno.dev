@@ -1,6 +1,6 @@
 # [178inaba.deno.dev](https://178inaba.deno.dev/)
 
-Using [oak](https://github.com/oakserver/oak).
+Using [Deno Deploy](https://deno.com/deploy) and [oak](https://github.com/oakserver/oak).
 
 ## License
 
